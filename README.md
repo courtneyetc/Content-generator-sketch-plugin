@@ -1,9 +1,9 @@
 Foursquare Content Generator for Sketch
 ============================
 
-Sketch generator allows you quickly create dummy data such as avatars, names, geo location data etc.
+allows you to quickly insert approved avatars, names, venue names, and venue photos into mock ups
 
 ## Demo
-#####Generating pictures
+#####avatars, names, venue names, and venue photos
 
-![Generating thumbnails](https://raw.githubusercontent.com/timuric/Content-generator-for-sketch-app/master/tutorial/userpics.gif)
+![Generating content](https://raw.githubusercontent.com/courtneyetc/Content-generator-sketch-plugin/master/tutorial/contentgeneratorpreview.gif)
